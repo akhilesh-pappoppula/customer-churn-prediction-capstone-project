@@ -1,14 +1,14 @@
-# 📊 Customer Churn Prediction
+📊 Customer Churn Prediction (Capstone Project)
 
-🚀 **End-to-End Machine Learning Project with Business Impact**
+🚀 End-to-End Machine Learning Capstone Project with Business Impact
 
 ---
 
-## 📌 Project Overview
+🎓 Capstone Project Details
 
 Customer churn is one of the biggest challenges in the telecom industry. Retaining existing customers is significantly more cost-effective than acquiring new ones.
 
-This project focuses on predicting customer churn using machine learning and uncovering key business insights to help reduce customer attrition.
+This capstone project focuses on predicting customer churn using machine learning and uncovering key business insights to help reduce customer attrition.
 
 ---
 
